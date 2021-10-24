@@ -2,17 +2,108 @@
   "type": "excalidraw",
   "version": 2,
   "source": "https://excalidraw.com",
-  "elements": [],
+  "elements": [
+    {
+      "type": "rectangle",
+      "version": 94,
+      "versionNonce": 2034911304,
+      "isDeleted": false,
+      "id": "T0x0CG0ICWGiqNcmtXSO6",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 7176.000000000001,
+      "y": 117.75000000000023,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 173.7499999999991,
+      "height": 121.24999999999999,
+      "seed": 454793886,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
+    },
+    {
+      "type": "line",
+      "version": 61,
+      "versionNonce": 2133272642,
+      "isDeleted": false,
+      "id": "tChUj18gFUcjudNfyYv51",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 7349.75,
+      "y": 140.25000000000023,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 174.3749999999991,
+      "height": 2.5,
+      "seed": 1339099074,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
+      "startBinding": null,
+      "endBinding": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -174.3749999999991,
+          2.5
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "type": "text",
+      "version": 103,
+      "versionNonce": 1095932546,
+      "isDeleted": false,
+      "id": "m2DpvE_NrfJvO0TdVtN-a",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 7198.5,
+      "y": 123.75000000000023,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 131.1249999999998,
+      "height": 18.416432584269646,
+      "seed": 244951326,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": [],
+      "fontSize": 14.733146067415701,
+      "fontFamily": 1,
+      "text": "Animal <abstract>",
+      "baseline": 12.416432584269646,
+      "textAlign": "left",
+      "verticalAlign": "top"
+    }
+  ],
   "appState": {
     "viewBackgroundColor": "#ffffff",
     "gridSize": null,
-    "scrollX": 0,
-    "scrollY": 0,
+    "scrollX": -6749.75,
+    "scrollY": 93.75,
     "zoom": {
-      "value": 1,
+      "value": 1.6,
       "translation": {
-        "x": 0,
-        "y": 0
+        "x": -318.0000000000008,
+        "y": -182.40000000000038
       }
     }
   }
