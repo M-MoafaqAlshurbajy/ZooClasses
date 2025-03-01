@@ -13,7 +13,8 @@ namespace ZooLab.Classes
 
         public override void Sound()
         {
-            Console.WriteLine("Tweet Tweet");
+           // Console.WriteLine("Tweet Tweet");
+            Console.WriteLine("Dinosaur whisper");//Â„”… «·œÌ‰«’Ê— 
         }
         public override string FavFood { get; set; }
         public string feathers { get; set; }

@@ -19,7 +19,15 @@ namespace ZooLab
             Console.WriteLine(MeshMesh.Type);
             MeshMesh.Sound();
 
-            Bird Twetty = new Bird();
+            Bird ProfessorTweet = new Bird() { 
+            PetName="Professor Tweet",
+            FavFood= "Worm sanswich deluxe"// ساندويش الدودة الفاخر
+            };
+            Console.WriteLine();
+            Console.WriteLine($"Bird Name : {ProfessorTweet.PetName}");
+            Console.WriteLine($"Favorite food : {ProfessorTweet.FavFood}");
+            Console.Write("Sound : ");
+            ProfessorTweet.Sound();
 
         }
     }
